@@ -1,7 +1,7 @@
 # Predicting-the-vaieties-of-wines-with-KNN
 
 ## Introduction
-The aim of this project is to understand KNN by creating a model that is able to predict the varieties of the wines.
+The aim of this project is to understand KNN by creating a model that is able to predict the varieties of wines.
 
 ## Usage
 ```python
