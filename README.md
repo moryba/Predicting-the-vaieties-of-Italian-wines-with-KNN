@@ -13,6 +13,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 ```
+## Data Visualization before processing
+
+![alt text](images/heatmap.JPG)
+
+![alt text](images/histogram.JPG)
 
 ## License
 The dateset for this project came from [Kaggle](https://www.kaggle.com/).
