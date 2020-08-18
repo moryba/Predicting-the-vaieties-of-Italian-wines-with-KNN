@@ -19,5 +19,9 @@ import numpy as np
 
 ![alt text](images/histogram.JPG)
 
+## Model performance
+
+![alt text](images/score.JPG)
+
 ## License
 The dateset for this project came from [Kaggle](https://www.kaggle.com/).
