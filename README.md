@@ -7,6 +7,26 @@ The analysis determined the quantities of 13 constituents found in each of the t
 
 The data set comes from [Kaggle](https://www.kaggle.com/). 
 
+## Labels
+- Class 1 
+- Class 2 
+- Class 3 
+
+## Features
+- Alcohol
+- Malic acid
+- Ash
+- Alcalinity of ash
+- Magnesium
+- Total phenols
+- Flavanoids
+- Nonflavanoid phenols
+- Proanthocyanins
+- Color intensity
+- Hue
+- OD280/OD315 of diluted wines
+- Proline
+
 ## Usage
 ```python
 import sklearn
@@ -18,13 +38,11 @@ import seaborn as sns
 import numpy as np
 ```
 ## Data Visualization before processing
-
 ![alt text](images/heatmap.JPG)
 
 ![alt text](images/histogram.JPG)
 
 ## Model performance
-
 ![alt text](images/score.JPG)
 
 ## License
