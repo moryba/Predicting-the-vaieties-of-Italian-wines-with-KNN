@@ -1,4 +1,4 @@
-# Predicting-the-vaieties-of-wines-with-KNN
+# Predicting the vaieties of Italian wines with KNN
 
 ## Introduction
 The aim of this project is to understand KNN by creating a model that is able to predict the varieties of wines.
